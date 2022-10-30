@@ -1,0 +1,1 @@
+# Temperature_Strip_Chart
