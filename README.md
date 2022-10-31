@@ -1,3 +1,7 @@
 # Temperature_Strip_Chart
 
-Written in Python, the python code reads the temperature transmitted from the ATMEGA328P microcontroller connected to the LM335 temperature sensor and draws a temperature strip chart with Matlab plot library.
+An embedded digital thermometer written in C and Python
+
+
+
+Written in Python and C, the ATMEGA328P microcontroller reads the analog input from the LM335 ADC using SPI and Python opens the serial port on the microcontroller to plot the reading in real-time using the Matplotlib library.
